@@ -28,7 +28,7 @@ provide required course materials to the students as per their chosen subject. T
 planned is robust in nature.
 The frontend of the web application is designed using React and Bootstrap for a
 neat and elegant dashboard. The database is created using MySQL Workbench. The backend
-connects the database using Node.js and Express.js.
+connects the database using PHP
 <br>
 The following system can be used by both Students and Mentors to connect with each
 other. It has a user-friendly interface, hence it can be used without any prerequisite knowledge
